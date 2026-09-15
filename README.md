@@ -16,8 +16,8 @@ Currently, it covers most menu icons and most system icons.
 Here's how to install it↓
 
 ## 用于XMB驱动界面<br>4 XMB Menu
-压缩包到手后，将`png`文件夹解压到`素材文件夹（assets）/xmb/custom/`内<br>
-Firstly, decompress the `png` folder into `assets/xmb/custom/`
+压缩包到手后，将`main icons`中的`png`文件夹解压到`素材文件夹（assets）/xmb/custom/`内<br>
+Firstly, decompress the `main icons/png` folder into `assets/xmb/custom/`
 
 （没有就新建一个）<br>
 （If there's no `custom` folder, you can just create one.）
