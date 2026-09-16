@@ -3,3 +3,6 @@ Here are some commonly used palette PNG files for drawing icons in this style.
 
 Simple中只有最常用的颜色，而Almost fully中给的颜色则更加全面<br>
 `Simple.png` only provides the most common colors, while `Almost fully.png` offers more colors.
+
+注意：图片的尺寸非常非常地小！<br>
+Note: The image size is really low
