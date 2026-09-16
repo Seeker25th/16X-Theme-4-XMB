@@ -35,7 +35,7 @@ There are some alternative icons in the '`ALTs`' folder, it also includes differ
 要使用的话，可直接用这个图片换掉素材文件夹内对应图片<br>
 If needed, you can use the icon you want to replace the corresponding one.
 
-## 特别说明<br>Additional Notes
+## 其他说明<br>Other Notes
 
 此库不带字体，要什么字体自己去其他地方找去吧<br>
 This theme doesn't come with fonts, you can use your own font files instead.
