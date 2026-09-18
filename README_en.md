@@ -1,3 +1,4 @@
+<a href="./README_zh_CN.md">简体中文</a>|English|<a href="./README.md">简体中文+English</a>
 # 16X-Theme-4-XMB
 ![宣传图](https://github.com/Seeker25th/16X-Theme-4-XMB/blob/main/Promotional.png?raw=true)
 
