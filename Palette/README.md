@@ -10,3 +10,6 @@ The color palette order recommended for picking colors in `Recommend.png`. The n
 ![展示](https://github.com/Seeker25th/16X-Theme-4-XMB/blob/main/Palette/Recommend.png?raw=true)<br>
 上面就是`Recommend.png`，从上往下分别为主要色板和两个附加色板<br>
 This image is `Recommend.png`, From top to bottom are the main color palette and two additional palettes.
+
+其中的`Palette.hsj`是存放色板的一个工程文件，一个神秘的软件能够打开它<br>
+The `Palette.hsj` is a project file that stores the color palette, and a mysterious software can open it.
