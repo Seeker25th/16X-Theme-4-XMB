@@ -25,6 +25,10 @@ There are some alternative icons in the '`ALTs`' folder, it also includes differ
 
 If needed, you can use the icon you want to replace the corresponding one.
 
+## How to get it?
+
+This theme pack doesn't have a release version for now. You can click on Code and then 'Download ZIP' to get this theme pack.
+
 ## Other Notes
 
 This theme doesn't come with fonts, you can use your own font files instead.
