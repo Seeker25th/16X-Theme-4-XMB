@@ -37,7 +37,7 @@ If needed, you can use the icon you want to replace the corresponding one.
 
 ## 怎么搞到手？<br>How to get it?
 
-此主题包暂时没有发行版本，你可以点上面绿色的Code，然后“下载Zip压缩包”即可品尝到这个主题包<br>
+此主题包暂时没有发行版本，你可以点上面绿色的Code，然后“Download ZIP”即可品尝到这个主题包<br>
 This theme pack doesn't have a release version for now. You can click on Code and then 'Download ZIP' to get this theme pack.
 
 ## 其他说明<br>Other Notes
