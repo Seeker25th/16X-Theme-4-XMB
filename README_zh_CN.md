@@ -1,6 +1,6 @@
 简体中文|<a href="./README_en.md">English</a>|<a href="./README.md">简体中文+English</a>
 # 16X-Theme-4-XMB
-![宣传图](https://github.com/Seeker25th/16X-Theme-4-XMB/blob/main/Promotional.png?raw=true)
+![宣传图](https://github.com/Seeker25th/16X-Theme-4-XMB/blob/main/misc/Promotional.png?raw=true)
 
 16X Theme 4 XMB是一个适用于**RetroArch、Lakka**和**GameBox Pro**的自定义XMB主题图标
 
