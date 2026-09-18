@@ -1,5 +1,5 @@
 # 16X-Theme-4-XMB
-![宣传图](https://github.com/Seeker25th/16X-Theme-4-XMB/blob/main/Promotional.png?raw=true)
+![宣传图](https://github.com/Seeker25th/16X-Theme-4-XMB/blob/main/misc/Promotional.png?raw=true)
 
 16X Theme 4 XMB是一个适用于**RetroArch、Lakka**和**GameBox Pro**的自定义XMB主题图标<br>
 16X Theme 4 XMB is a custom XMB theme icon for **RetroArch**, **Lakka**, and **GameBox Pro**
@@ -34,6 +34,11 @@ There are some alternative icons in the '`ALTs`' folder, it also includes differ
 
 要使用的话，可直接用这个图片换掉素材文件夹内对应图片<br>
 If needed, you can use the icon you want to replace the corresponding one.
+
+## 怎么搞到手？<br>How to get it?
+
+此主题包暂时没有发行版本，你可以点上面绿色的Code，然后“Download ZIP”即可品尝到这个主题包<br>
+This theme pack doesn't have a release version for now. You can click on Code and then 'Download ZIP' to get this theme pack.
 
 ## 其他说明<br>Other Notes
 
