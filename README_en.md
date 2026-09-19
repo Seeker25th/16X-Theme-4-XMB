@@ -1,6 +1,7 @@
 <a href="./README_zh_CN.md">简体中文</a>|English|<a href="./README.md">简体中文+English</a>
 # 16X-Theme-4-XMB
-![宣传图](https://github.com/Seeker25th/16X-Theme-4-XMB/blob/main/misc/Promotional.png?raw=true)
+![宣传图](https://github.com/Seeker25th/16X-Theme-4-XMB/blob/main/misc/Promotional.png?raw=true)<br>
+![](https://raw.githubusercontent.com/Seeker25th/16X-Theme-4-XMB/refs/heads/main/misc/%E6%88%AA%E5%9B%BE1.png)
 
 16X Theme 4 XMB is a custom XMB theme icon for **RetroArch** and **Lakka**.
 >Lakka is an open-source project released by libretro, based on Retroarch, and can run on Raspberry Pi, PCs, SBCs, and TV boxes.
