@@ -2,16 +2,16 @@
 # 16X-Theme-4-XMB
 ![](https://raw.githubusercontent.com/Seeker25th/16X-Theme-4-XMB/refs/heads/main/misc/%E6%88%AA%E5%9B%BE1.png)
 
-16X Theme 4 XMB是一个适用于**RetroArch、Lakka**和**GameBox Pro**的自定义XMB主题图标<br>
-16X Theme 4 XMB is a custom XMB theme icon for **RetroArch**, **Lakka**, and **GameBox Pro**
+16X Theme 4 XMB是一个适用于**RetroArch、Lakka**和**GameBox Pro**的自定义XMB主题<br>
+16X Theme 4 XMB is a custom XMB theme for **RetroArch**, **Lakka**, and **GameBox Pro**
 >Lakka是libretro发行的一个基于Retroarch制作的开源项目，功能跟Retroarch差不多，可以装在树莓派上<br>
 >Lakka is an open-source project released by libretro, based on Retroarch, and can run on Raspberry Pi, PCs, SBCs, and TV boxes.
 
 >Gamebox Pro是小白工坊基于Retroarch开发的运行于HarmonyOS上的移植版本<br>
 >Gamebox Pro is a port developed by XiaobaiStudio based on Retroarch that runs on HarmonyOS.
 
-目前已覆盖绝大部分菜单图标和绝大部分机型图标<br>
-Currently, it covers most menu icons and most system icons.
+目前为止，这个主题的图标已覆盖绝大部分菜单图标和绝大部分机型图标<br>
+Currently, ithe icons for this theme covers most menu icons and most system icons.
 
 以下是装备此风格的相关说明↓<br>
 Here's how to install it↓
