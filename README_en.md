@@ -2,10 +2,10 @@
 # 16X-Theme-4-XMB
 ![](https://raw.githubusercontent.com/Seeker25th/16X-Theme-4-XMB/refs/heads/main/misc/%E6%88%AA%E5%9B%BE1.png)
 
-16X Theme 4 XMB is a custom XMB theme icon for **RetroArch** and **Lakka**.
+16X Theme 4 XMB is a custom XMB theme for **RetroArch** and **Lakka**.
 >Lakka is an open-source project released by libretro, based on Retroarch, and can run on Raspberry Pi, PCs, SBCs, and TV boxes.
 
-Currently, it covers most menu icons and most system icons.
+Currently, ithe icons for this theme covers most menu icons and most system icons.
 
 Here's how to install it↓
 
